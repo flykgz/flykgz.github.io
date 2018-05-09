@@ -1375,6 +1375,178 @@ body {
 .cid-qRtI6xSHS1 {
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
+.cid-qRyo3FTnSX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background6.jpg");
+}
+.cid-qRyo3FTnSX h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-qRyo3FTnSX p {
+  color: #ffffff;
+}
+.cid-qRyo3FTnSX .card {
+  margin-bottom: 2rem;
+}
+.cid-qRyo3FTnSX .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-qRyo3FTnSX .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qRyo3FTnSX .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-qRyo3FTnSX .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qRyo3FTnSX .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qRyo3FTnSX .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qRyo3FTnSX .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
 .cid-qRtIk9mfCb {
   background-image: url("../../../assets/images/jumbotron.jpg");
+}
+.cid-qRynYFbdoX {
+  background-image: url("../../../assets/images/03.jpg");
+}
+.cid-qRynYFbdoX .icons-media-container {
+  display: flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+  flex-direction: row;
+  -webkit-flex-direction: row;
+  flex-wrap: wrap;
+  -webkit-flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-qRynYFbdoX .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-qRynYFbdoX .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-qRynYFbdoX .mbr-text {
+  color: #ffffff;
+}
+.cid-qRynYFbdoX .card {
+  padding-bottom: 1.5rem;
+}
+.cid-qRyqNoWUwT {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-qRyqNoWUwT .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qRyqNoWUwT .formoid {
+  margin: auto;
+}
+.cid-qRyqNoWUwT .form-control {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-qRyqNoWUwT a.btn {
+  flex: 0 0 auto;
+  -webkit-flex: 0 0 auto;
+}
+.cid-qRyqNoWUwT .input-group-btn {
+  align-self: center;
+  -webkit-align-self: center;
+  z-index: 3;
+}
+.cid-qRyqNoWUwT .input-group-btn .btn {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+.cid-qRyqNoWUwT a:not([href]):not([tabindex]) {
+  color: #fff;
+}
+.cid-qRyqNoWUwT a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-qRyqNoWUwT .mbr-subscribe .input-group-btn {
+  display: inline-block;
+}
+.cid-qRyqNoWUwT .mbr-subscribe .input-group-btn button,
+.cid-qRyqNoWUwT .mbr-subscribe .input-group-btn a {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+@media (max-width: 350px) {
+  .cid-qRyqNoWUwT .mbr-subscribe {
+    flex-direction: column;
+    -webkit-flex-direction: column;
+  }
+  .cid-qRyqNoWUwT input[type="email"] {
+    width: 100%;
+    margin-bottom: 2px;
+  }
+  .cid-qRyqNoWUwT .input-group-btn {
+    width: 100%;
+  }
+  .cid-qRyqNoWUwT .input-group-btn .btn {
+    border-radius: 3px;
+  }
+}
+@media (max-width: 768px) {
+  .cid-qRyqNoWUwT .input-group-btn a.btn {
+    width: 100%;
+  }
+  .cid-qRyqNoWUwT .input-group-btn {
+    width: calc(92%);
+  }
+  .cid-qRyqNoWUwT .input-group-btn button[type="submit"] {
+    width: 100%;
+  }
+  .cid-qRyqNoWUwT .input-group {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 300px;
+  }
+  .cid-qRyqNoWUwT .input-group input[type="email"] {
+    width: 100%;
+    margin-bottom: 3px;
+  }
+  .cid-qRyqNoWUwT .input-group span {
+    display: inline;
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .cid-qRyqNoWUwT .input-group-btn button,
+  .cid-qRyqNoWUwT .input-group-btn a {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+@media (min-width: 769px) {
+  .cid-qRyqNoWUwT .mbr-subscribe > * {
+    margin: 0 0.5rem;
+  }
+}
+.cid-qRyrnjQB3m {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
